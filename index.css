@@ -1,0 +1,44 @@
+/* GIVEN CODE */
+.bootstrap-example-1 {
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.bootstrap-example-2 {
+  padding: 1.5rem;
+  background-color: #28a745;
+  color: #fff;
+}
+
+.bootstrap-example-3 {
+  border: 1px solid #dc3545;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background-color: #f8f9fa;
+  color: #dc3545;
+}
+
+/* MY SOLUTION */
+.css-transform-1 {
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.css-transform-2 {
+  padding: 1.5rem;
+  margin: 1rem;
+  background-color: #28a745;
+  color: #fff;
+}
+
+.css-transform-3 {
+  border: 1px solid #dc3545;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #f8f9fa;
+  color: #dc3545;
+}
